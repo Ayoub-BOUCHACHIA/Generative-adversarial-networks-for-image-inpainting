@@ -46,3 +46,5 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+
+![Generator](https://user-images.githubusercontent.com/43878887/113905210-d1901200-97ca-11eb-88e1-9ddc72facaf9.jpg)
